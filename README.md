@@ -1,11 +1,11 @@
-# SimpleGASExample
-A simple guide to setup GAS in a single player environment. Part of my particual Unreal tutoring program at Geek Fabrik.
+# Exemplo simples de GAS
+Um guia simples para configurar o GAS em um ambiente single player. Parte do meu programa particular de tutoria em Unreal na Geek Fabrik.
 
-## esquemática
+## Esquemática
 ![Esquemática](https://github.com/CordeiroAndre/SimpleGASExample/blob/main/GASConcept.png)
 
 
-## Configurando o GAS (in portuguese)
+## Configurando o GAS 
 1. Habilitar o Plugin "Gameplay Abilities"
 2. Adicionar o "GameplayTags", "GameplayTasks", "GameplayAbilities" no arquivo Build.cs
 3. Criar a classe de Atributo 
